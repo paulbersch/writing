@@ -24,7 +24,7 @@ Once you've completed your feature and you're ready for a pull request, squash y
 
 If you haven't already, add histedit to your `.hgrc` file.
 
-	[plugins]
+	[extensions]
 	histedit =
 
 Then squash the commits.
@@ -37,7 +37,7 @@ Your editor will open with a list of commits between `<commit_id>` and `tip` in 
 	fold 520a7c7a7265 55 Made some more updates on feature
 	fold 4c0ff301d723 56 Fixed a bug!
 	
-	# Edit history between c2d29f715c6c and 4c0ff301d723
+	# Edit history between fb7b926acbf9 and 4c0ff301d723
 	#
 	# Commands:
 	#  p, pick = use commit
