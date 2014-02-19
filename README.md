@@ -1,4 +1,4 @@
 writing
 =======
 
-Blag all the blags.
+[Squashing commits using Bitbucket, Mercurial, and the histedit extension](bitbucket-squash-histedit.md)
